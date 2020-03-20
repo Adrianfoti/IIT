@@ -1,8 +1,10 @@
-## Welcome to Adrian Foti's Github Page
+<!DOCTYPE html>
+<h1>Welcome to Adrian's GitHub Page<h1>
+<h2>Assignment 1<h2>
 
-
-
-You can use the [editor on GitHub](https://github.com/Adrianfoti/IIT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<h1>A little About me<h1>
+<div id="Personal Infomation">
+  
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
