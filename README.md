@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <h1>Welcome to Adrian's GitHub Page<h1>
-<h2>Assignment 1<h2>
-
+<p>Assignment 1<p>
 <h1>A little About me<h1>
 <div id="Personal Infomation">
   
