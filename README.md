@@ -8,6 +8,9 @@
   
 <h1>My Interest in IT<h1>
   <p>My interest in IT is extensive and ongoing, I love the fact that almost every aspect of our life has incorperated means of technology whether that'd be the way we communicate, the way we entertain and make the lives of others better. My interest in IT started when I was very young. i loved playing around with my old windows XP computer, tweaking it, istalling all sorts of interesting software from DVD burners too small flash games. My dad has taught me alot about how to take advantage of most basic aspects on PC, now it seems to be the reverse oppisite and now i tend to teach most of my family how to use my devices. if it wasn't for him, my interest woundn't be anywhere near as passionate as it is today. Also, my love for gaming on the original Xbox when I was a kid lit the spark of curiosity of what is happening inside that black box and got me wanting to know what is going on behind what we see on the screen. Open University helped Direct me to RMIT. Hearng a lot from my brother whom also studies at RMIT university doing a Bachelor of International Buisness, he has informed me that RMIT was the perfect choice for me to start opening my doors to possibility. I have chosen RMIT due to it being an excellent University overall and the best chance I have of moving toward succsess. Throughout the duration of the course, I intend to learn the skill required to be apart of an ICT team in a buisness, vast and plenty of coding lanuguage I can use to create my projects and also some skill i can use in my life today.<p>
+
+<h1>My Ideal Job<h1>
+ 
   
 
 
