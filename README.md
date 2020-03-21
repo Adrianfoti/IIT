@@ -6,7 +6,10 @@
 <h1>A little bit About me<h1>
 <div id="Personal Infomation">
   <p> I am 20 years of age and I'm an ethusiastic, hard working individual. I have a strong Italian background which I take a lot of pride in. I currently have obtained a VCE certificate having completed year 12, a certrifcate II in furniture making, A Worksafe Contruction Induction Card (white Card) and an Onsite Forklift license. A little fact about me is that I was previously an apprentice Cabinet Maker and am now a Building construction worker looking to better my career both physically and finacially. I have an interest in sports such as Soccer, my favourite team being Juventus and the Tenni. I love to play video games in my free time such as Star Wars Jedi: Fallen Order and FIFA 20. I also love to muck around with hardware in computers and mobile phones to futher my existing passion and knowledge for technology. 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.<div>
+  
+    
+
 
 ### Markdown
 
