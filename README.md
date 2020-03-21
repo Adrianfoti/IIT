@@ -1,5 +1,5 @@
 <h1>Welcome to Adrian Foti's GitHub Page<h1>
-  <p> <font size "6"> s3857888 s3857888@student.rmit.edu.au</font> <p>
+  <p> <font size="6"> s3857888 s3857888@student.rmit.edu.au</font> <p>
 
 <p>Assignment 1<p>
   
