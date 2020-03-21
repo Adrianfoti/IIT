@@ -1,8 +1,10 @@
-<h1>Welcome to Adrian's GitHub Page<h1>
+<h1>Welcome to Adrian Foti's GitHub Page<h1>
+  <p> <font size "6"> s3857888 s3857888@student.rmit.edu.au</font>
 <p>Assignment 1<p>
-<h1>A little About me<h1>
-<div id="Personal Infomation">
   
+<h1>A little bit About me<h1>
+<div id="Personal Infomation">
+  <p> I'm Adrian i am 20 years of age and 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
