@@ -30,37 +30,4 @@ The Hardware would need to include the use a long life rechargeable battery to s
 The sofware needed to construct this Application would be an app creation software such as Appey Pie. Appey Pie is a free, easy to use software, that give you the choice of using in depth code or no code at all depending on your skill level. It also gives you the choice of where to publish your product, such as the play store or itunes store. The hardwere would need to be a pre programmed chip along with LTE capibility, a battery with long life, a small powerfull speaker and a slim casing that is sturdy and resistent to shock and damage.
 The skill required would be quite extensive and would require professional software writing and language to maximize the efficiency of the Seeker Chips. Sophisticated code for location services both on the app and the chip would need to be properly fabricated, an LTE chip would need to be installed and the apps interface would need to be designed with all buttons and menus working properly. Also the ability to add settings for the user to change the user experience within the application to tweak preferences to make it easier to use. For a student like me it going to be difficult to make this idea feasible anytime soon, due to lack of knowledge and required hardware for this particular project.
 
-If this project is to be successful, it would solve most problems with people who have trouble misplacing their belongings by giving them the means to get on top of that forgetfulness. This app can successfully make sure said person can find their items and also give piece of mind knowing that their belongings going to be safe even if they are lost or stolen. The impact this technology may have is quite positive in the fact that it can make people more aware of how they should store and carry their important items when out of the house, It can also assist if the  item is lost inside the home at any anytime.</p>
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Adrianfoti/IIT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If this project is to be successful, it would solve most problems with people who have trouble misplacing their belongings by giving them the means to get on top of that forgetfulness. This app can successfully make sure said person can find their items and also give piece of mind knowing that their belongings going to be safe even if they are lost or stolen. The impact this technology may have is quite positive in the fact that it can make people more aware of how they should store and carry their important items when out of the house, It can also assist if the item is lost inside the home at any anytime.</p>
